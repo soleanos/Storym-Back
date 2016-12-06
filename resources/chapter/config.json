@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"title": {
+			"name": "title",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "title",
+			"order": 0
+		},
+		"index": {
+			"name": "index",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "index",
+			"order": 1
+		},
+		"pages": {
+			"name": "pages",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "pages",
+			"order": 2
+		}
+	}
+}

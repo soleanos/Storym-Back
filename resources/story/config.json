@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"title": {
+			"name": "title",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "title",
+			"order": 0
+		},
+		"chapters": {
+			"name": "chapters",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "chapters",
+			"order": 1
+		},
+		"note": {
+			"name": "note",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "note",
+			"order": 2
+		}
+	}
+}

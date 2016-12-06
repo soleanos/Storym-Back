@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"index": {
+			"name": "index",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "index",
+			"order": 0
+		},
+		"choices": {
+			"name": "choices",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "choices",
+			"order": 1
+		},
+		"text": {
+			"name": "text",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "text",
+			"order": 2
+		}
+	}
+}
